@@ -18,3 +18,6 @@ for (let yuna = 1; yuna < 51; yuna++)
         console.log (yuna)
     }
 }
+    console.log()
+    console.log ("You have fizzed your last buzz")
+    
